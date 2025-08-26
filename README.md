@@ -62,7 +62,8 @@ The app is deployed using Render:
 https://popcornpicks-ap8j.onrender.com check my movie rec sys 
 
 Screenshots: 
-<img width="1488" height="618" alt="Screenshot 2025-08-25 at 3 50 51 PM" src="https://github.com/user-attachments/assets/65b408f4-f68a-4753-9836-6fa15710b5b2" />
+ <img width="2464" height="1408" alt="image" src="https://github.com/user-attachments/assets/1f87e0c8-2fa0-4f04-a6cc-7f0809d2c01b" />
+
 
 <img width="1433" height="782" alt="Screenshot 2025-08-26 at 9 48 32 AM" src="https://github.com/user-attachments/assets/817f0d07-0173-4a35-b283-bf33038469a8" />
 
